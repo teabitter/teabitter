@@ -10,7 +10,7 @@ I'm a high school senior passionate about software development, especially using
 
 ## Projects
 - **Student Portfolio Website** - A personal site to showcase my projects, resume, and skills.
-- **Pomodoro Timer App** - A study tool with a timer and taks.
+- **Pomodoro Timer App** - A study tool with a timer and tasks.
 
 ## Certifications
 - Adobe Photoshop Visual Design
