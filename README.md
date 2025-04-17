@@ -24,8 +24,8 @@ I'm a high school senior passionate about software development, especially using
 
 ## Let's Connect
 - Email: [nataliadambaeva2@gmail.com](mailto:nataliadambaeva2@gmail.com)
-- LinkedIn: [natalia-dambaeva](linkedin.com/in/natalia-dambaeva)
-- Portfolio: [teabitter.github.io](teabitter.github.io)
+- LinkedIn: [natalia-dambaeva](https://linkedin.com/in/natalia-dambaeva)
+- Portfolio: [teabitter.github.io](https://teabitter.github.io)
 
 ---
 > "I dont just code to code - I build to make things useful and meaningful."
