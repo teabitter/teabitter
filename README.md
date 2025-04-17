@@ -1,4 +1,4 @@
-# Hi, I'm [Natalia]!
+# Hi, I'm Natalia!
 I'm a high school seniro passionate about software development, especially using the .NET Framework and C#. I enjoy building applications that are not only functional but also impactful and easy to use.
 
 ## Technologies & Tools
