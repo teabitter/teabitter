@@ -6,7 +6,6 @@ I'm a high school senior passionate about software development, especially using
 - HTML & CSS
 - Java
 - Adobe Photoshop (Certified in Visual Design)
-- Certiport Software Development Certification (In Progress)
 
 ## Projects
 - **Student Portfolio Website** - A personal site to showcase my projects, resume, and skills.
@@ -16,10 +15,8 @@ I'm a high school senior passionate about software development, especially using
 - Adobe Photoshop Visual Design
 - HTML and CSS
 - Java
-- Software Development (In Progress)
 
 ## Currently Working On
-- Preparing for the Software Development certification.
 - Exploring front-end and back-end integration for personal apps.
 
 ## Let's Connect
